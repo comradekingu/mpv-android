@@ -44,7 +44,6 @@
 
     <string name="pref_video_sync_title">Videosynkronisering</string>
     <string name="pref_video_sync_summary">Velg hvordan avspilleren synkroniserer lyd og bilde</string>
-    <string name="pref_video_sync_default">audio</string> <!-- equal to mpv default, see options.rst -->
 
     <string name="pref_video_tscale_title">Tidsbestemt interpoleringsfilter</string>
     <string name="pref_video_tscale_message">Filter brukt til interpolering av tidsaksen (rammer).\nKun brukt hvis interpolering er påskrudd nedenfor.</string>
